@@ -7,3 +7,4 @@ Added some programs
 1. Convert Decimal to Binary
 2. Reverse a String
 3. Evaluate Postfix Expression
+4. Palindrome
