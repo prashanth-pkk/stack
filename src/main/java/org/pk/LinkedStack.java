@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 public class LinkedStack<T> {
-    private LinkedList<T> stack;
+    private final LinkedList<T> stack;
 
     public LinkedStack() {
         stack = new LinkedList<T>();
